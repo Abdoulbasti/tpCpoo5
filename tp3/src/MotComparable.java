@@ -8,7 +8,7 @@ public class MotComparable implements Comparable{
 
     public boolean estPlusGrand(Comparable i)
     {
-        if (i.value()) intanceof String
+        /*if (i.value()) intanceof String)
         {
             if (this.mot.compareTo((String).value() >0) return true;
             return false;
@@ -16,6 +16,7 @@ public class MotComparable implements Comparable{
         else
         {
             throw new IllegalArgumentException();
-        }
+        }*/
+        return true;
     }
 }
